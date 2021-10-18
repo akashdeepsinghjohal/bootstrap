@@ -1,0 +1,118 @@
+h2 {
+    color: black;
+}
+p {
+    color: black;
+}
+nav.navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-color: #ffe18e !important;
+}
+button.btn.btn-outline-success.my-2.my-sm-0 {
+    color: white;
+}
+button.btn.btn-outline-success.my-2.my-sm-0 {
+    background-color:#2a8f29;
+}
+.slider3 h2{
+    color: white;
+}
+.ashu h2{
+    color: white;
+}
+.ashu p{
+    color: white;
+}
+ul{
+    list-style-type: none;
+    margin: 0px;
+    text-align: left;
+    padding: 0px!important;
+}
+input{
+    outline: none;
+}
+input:focus{
+    border: 1px solid red;
+    box-shadow: 0px 0px 3px red;
+}
+input{
+    outline: none;
+}
+section.About1e {
+    background-color: bisque;
+}
+section.About1e ul li {
+    font-size: 13px;
+}
+li {
+    line-height: 2;
+}
+.col-md-2.About4e {
+    padding: 20px;
+}
+.col-md-2.About5e {
+    padding: 20px;
+}
+.col-md-2.About6e {
+    padding: 20px;
+}
+.col-md-6.About7e {
+    padding: 20px;
+}
+.About5e ul li a{
+    color: inherit;
+}
+section.About1e {
+    margin-top: 20px;
+    mar: 20px;
+}
+.About4f h1{
+    padding-left: 450px;
+}
+.About4f p{
+    padding-left: 450px;
+}
+section.About1g {
+    background-color: #f1e7e5;
+    padding-left: 400px;
+}
+
+element.style {
+}
+
+.Asd {
+    padding: inherit;
+    padding-bottom: 20px;
+}
+.Amd {
+    padding: inherit;
+    padding-bottom: 20px;
+}
+.qwe {
+    padding: inherit;
+    padding-bottom: 20px;
+}
+.hjk {
+    padding: inherit;
+    padding-bottom: 20px;
+}
+.lkj {
+    padding-left: 12px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+section.About1e {
+    margin-top: 20px;
+    padding-left: 200px;
+    mar: 20px;
+}
+button.ban {
+    margin-left: 200px;
+    background-color: aqua;
+        border-radius: 5px;
+}
+.ban:hover{
+    color: green;
+}
+
+
